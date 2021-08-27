@@ -1,2 +1,14 @@
 # 42-printf
-This project is pretty straight forward. The aim of this project is to recode printf.
+## This project is pretty straight forward. The aim of this project is to recode printf.
+
+This repository contains some of the standard library C functions.
+Subject is presented in the
+
+
+## Usage
+Using Makefile you can create library file libftprintf.a
+* `make` without bonus functions.
+* `make bonus` to compile with bonuses.
+* `make clean` to clean all object files.
+* `make fclean` to clean libft.a and all object files.
+* `make re` to recompile the library.
