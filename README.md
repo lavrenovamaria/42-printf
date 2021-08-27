@@ -8,8 +8,8 @@ Subject is presented in the [en.subject.pdf](https://github.com/lavrenovamaria/4
 
 ## Usage
 Using Makefile you can create library file libftprintf.a
-* `make` without bonus functions.
+* `make` to compile mandatory part.
 * `make bonus` to compile with bonuses.
 * `make clean` to clean all object files.
-* `make fclean` to clean libft.a and all object files.
-* `make re` to recompile the library.
+* `make fclean` to clean libftprintf.a and all object files.
+* `make re` to recompile this project.
