@@ -2,7 +2,8 @@
 ## This project is pretty straight forward. The aim of this project is to recode printf.
 
 This repository contains some of the standard library C functions.
-Subject is presented in the
+Subject is presented in the [en.subject.pdf](https://github.com/lavrenovamaria/42-printf/files/7067243/en.subject.pdf)
+
 
 
 ## Usage
